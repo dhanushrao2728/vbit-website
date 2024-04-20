@@ -1,0 +1,50 @@
+
+*{ 
+    
+
+}
+
+
+
+div{
+    border: solid 0px;
+    height: 500px;
+    width: 400px;
+    
+}
+label{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+fieldset{
+    background-color: aqua;
+    margin-left: 450px;
+    border-radius: 0% 15% 0% 25%;
+    
+}
+legend{
+    text-shadow: black;
+    font-size: 30px;
+    font-family: cursive;
+}
+input{
+    outline: none;
+    border-radius: 5px;
+}
+text{
+    height: 800px;
+    width: 400px;
+}
+button{
+    text-align: center;
+    color: rgb(233, 245, 245);
+    background-color: rgb(207, 16, 16);
+}
+i{ 
+    margin-left: 500px;
+
+}
+body
+{
+    background-image: linear-gradient(rgb(250, 126, 10),rgb(46, 161, 11));
+}
